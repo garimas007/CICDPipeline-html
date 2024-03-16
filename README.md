@@ -5,6 +5,7 @@
 <img width="653" alt="image" src="https://github.com/garimas007/CICDPipeline-html/assets/146625788/1880ec32-7969-4674-8ac8-00bf21a49942">
 <h3>Code</h3>
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
 pipeline {
     agent any
     environment {
@@ -33,6 +34,7 @@ pipeline {
         }
     }
 }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 <h3>Success Deployment on Jenkins</h3>
 <img width="780" alt="image" src="https://github.com/garimas007/CICDPipeline-html/assets/146625788/113d79de-f997-44d9-99fd-9f3b0bd196c0">
